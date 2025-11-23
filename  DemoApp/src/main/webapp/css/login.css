@@ -1,0 +1,13 @@
+body{
+	background-image: url('../img/proj.jpg');
+	background-position-x: -170px;
+	background-size: cover;
+	background-repeat: repeat-y;
+}
+.login{
+	text-align: center;
+	padding-top: 20px;
+}
+.navbar-header{
+      background-color:red;
+}

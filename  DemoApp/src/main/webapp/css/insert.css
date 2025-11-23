@@ -1,0 +1,9 @@
+@charset "UTF-8";
+ body{
+	background-color:brown;
+}
+.imagetext{
+	position: relative;
+	left: 900px;
+	bottom:2200px;
+}
